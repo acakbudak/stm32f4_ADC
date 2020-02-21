@@ -1,4 +1,4 @@
-*
+/*
  * temp_sensor.c
  *
  *  Created on: 21 Şub 2020
